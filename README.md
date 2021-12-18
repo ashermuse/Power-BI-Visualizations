@@ -1,2 +1,2 @@
 # Power BI Visualizations
-A collection of visualizations I have made in Power BI.
+Archive of Power BI visualizations made when in undergrad.
